@@ -1,0 +1,14 @@
+#left{
+	float: left;
+	width: 50%;
+}
+
+
+#right{
+	margin-left: 50%;
+	width: 50%;
+}
+
+#global {
+	clear: both;
+}
